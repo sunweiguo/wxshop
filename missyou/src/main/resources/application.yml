@@ -1,2 +1,10 @@
 server:
   port: 8888
+sheep:
+  name: xiaoxu
+  age: 12
+database:
+  type: mysql
+mysql:
+  ip: 127.0.0.1
+  port: 3307bru
